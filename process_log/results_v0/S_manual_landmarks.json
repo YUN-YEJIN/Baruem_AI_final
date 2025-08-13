@@ -1,0 +1,107 @@
+[
+  {
+    "name": "Tongue_Tip",
+    "x": 48,
+    "y": 93
+  },
+  {
+    "name": "Superior_1",
+    "x": 58,
+    "y": 80
+  },
+  {
+    "name": "Superior_2",
+    "x": 79,
+    "y": 84
+  },
+  {
+    "name": "Superior_3",
+    "x": 100,
+    "y": 87
+  },
+  {
+    "name": "Superior_4",
+    "x": 125,
+    "y": 84
+  },
+  {
+    "name": "Superior_5",
+    "x": 150,
+    "y": 74
+  },
+  {
+    "name": "Superior_6",
+    "x": 173,
+    "y": 67
+  },
+  {
+    "name": "Superior_7",
+    "x": 194,
+    "y": 64
+  },
+  {
+    "name": "Superior_8",
+    "x": 219,
+    "y": 61
+  },
+  {
+    "name": "Superior_9",
+    "x": 243,
+    "y": 63
+  },
+  {
+    "name": "Superior_10",
+    "x": 264,
+    "y": 69
+  },
+  {
+    "name": "Posterior_1",
+    "x": 286,
+    "y": 79
+  },
+  {
+    "name": "Posterior_2",
+    "x": 300,
+    "y": 92
+  },
+  {
+    "name": "Posterior_3",
+    "x": 311,
+    "y": 112
+  },
+  {
+    "name": "Posterior_4",
+    "x": 158,
+    "y": 157
+  },
+  {
+    "name": "Posterior_5",
+    "x": 163,
+    "y": 144
+  },
+  {
+    "name": "Inferior_1",
+    "x": 159,
+    "y": 138
+  },
+  {
+    "name": "Inferior_2",
+    "x": 135,
+    "y": 139
+  },
+  {
+    "name": "Inferior_3",
+    "x": 112,
+    "y": 138
+  },
+  {
+    "name": "Inferior_4",
+    "x": 86,
+    "y": 129
+  },
+  {
+    "name": "Inferior_5",
+    "x": 63,
+    "y": 115
+  }
+]
